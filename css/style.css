@@ -348,12 +348,6 @@ header .navbar ul li a:hover{
     padding-left: 5rem;
 }
 
-.top{
-    position: fixed;
-    bottom:7.5rem; right: 2rem;
-    z-index: 100;
-    display: none;
-}
 
 
 
@@ -370,10 +364,7 @@ header .navbar ul li a:hover{
 
 
 
-
-
-
-/* media queries  */
+/* media */
 
 @media (max-width:1200px){
 
